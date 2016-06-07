@@ -1,2 +1,4 @@
-# Hello-Wolrld
-Introduction to GitHub ;)
+# Hello-World
+Introduction to GitHub 
+está es un paso más para la creación de templates
+;)
